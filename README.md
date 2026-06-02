@@ -17,12 +17,12 @@ A modern and responsive landing page for a **digital game store** built using **
 - JavaScript  
 - HTML  
 - CSS  
-- SCSS (used for styling)
+- bootstrap
 
 ---
 
 ## 📸 Screenshot
-![Home Page](./assets/img/github2.png)
+![Home Page](./img/github2.png)
 
 ---
 
